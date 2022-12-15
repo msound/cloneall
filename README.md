@@ -16,7 +16,7 @@ This script needs a few tools to be in place for it to work:
 4. SSH auth keys [configured at Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## Usage
-First, it may be a good idea to create a directory for <org> and change into it:
+First, it may be a good idea to create a directory for org and change into it:
 
 ```
 $ mkdir <org>
